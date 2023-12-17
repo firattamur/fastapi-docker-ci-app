@@ -13,7 +13,7 @@ This project demonstrates how to dockerize a simple application, push it to Dock
 - [x] 📝 Write a simple Python FastAPI app.
 - [x] 📦 Dockerize the application.
 - [x] 🚢 Push the Docker image to Docker Hub.
-- [ ] 🤖 Automate the process of updating the Docker image using CI/CD with GitHub Actions.
+- [x] 🤖 Automate the process of updating the Docker image using CI/CD with GitHub Actions.
 
 🔧 Technology Stack
 -------------------
